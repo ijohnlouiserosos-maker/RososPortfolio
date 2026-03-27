@@ -3,6 +3,7 @@
     position: relative;
     display: flex;
     flex-direction: column;
+    background: linear-gradient(to right, #FF0000, #FFA500, #FFFF00, #008000, #0000FF, #4B0082, #EE82EE);
 }
 
 main[b-tot7n500l5] {
@@ -473,7 +474,7 @@ main[b-tot7n500l5] {
     align-items: center;
     flex-direction: column;
     margin-top: 20px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: none;
     padding: 40px;
     border-radius: 10px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
@@ -489,7 +490,7 @@ main[b-tot7n500l5] {
     font-size: 1.2em;
     margin: 10px 0;
     padding: 15px 25px;
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(65, 10, 147, 0.9);
     border-radius: 8px;
     color: #333;
     transition: all 0.3s ease;

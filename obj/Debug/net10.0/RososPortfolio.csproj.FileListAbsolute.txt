@@ -85,5 +85,5 @@ C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\Ro
 C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\scopedcss\Components\Pages\Profile.razor.rz.scp.css
 C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\scopedcss\Components\Pages\Projects.razor.rz.scp.css
 C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\scopedcss\Components\Pages\Skills.razor.rz.scp.css
-C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\compressed\qo047r4cu3-{0}-od5ettrioe-od5ettrioe.gz
-C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\compressed\uuekdytni5-{0}-od5ettrioe-od5ettrioe.gz
+C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\compressed\qo047r4cu3-{0}-1goni37kqm-1goni37kqm.gz
+C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\compressed\uuekdytni5-{0}-1goni37kqm-1goni37kqm.gz
