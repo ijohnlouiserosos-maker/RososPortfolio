@@ -34,14 +34,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOb3RGb3VuZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Josh - CKI/Documents/RososPortfolio/RososPortfolio/Components/Pages/Profile.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9maWxlLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Josh - CKI/Documents/RososPortfolio/RososPortfolio/Components/Pages/Projects.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9qZWN0cy5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Josh - CKI/Documents/RososPortfolio/RososPortfolio/Components/Pages/Skills.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTa2lsbHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -65,3 +57,11 @@ build_metadata.AdditionalFiles.CssScope = b-o8qlt9u2e0
 [C:/Users/Josh - CKI/Documents/RososPortfolio/RososPortfolio/Components/Layout/ReconnectModal.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcUmVjb25uZWN0TW9kYWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-e43jqr2gwj
+
+[C:/Users/Josh - CKI/Documents/RososPortfolio/RososPortfolio/Components/Pages/Profile.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9maWxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-5r3agrmv75
+
+[C:/Users/Josh - CKI/Documents/RososPortfolio/RososPortfolio/Components/Pages/Projects.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9qZWN0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-owe2htx64f

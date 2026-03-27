@@ -71,8 +71,6 @@ C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\co
 C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\compressed\tl6f59j8d8-{0}-abdmv1u4y3-abdmv1u4y3.gz
 C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\compressed\5w6qx630vi-{0}-ax6tuj8tun-ax6tuj8tun.gz
 C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\compressed\b9x5qvbz5w-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
-C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\compressed\qo047r4cu3-{0}-flp0yx9dlv-flp0yx9dlv.gz
-C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\compressed\uuekdytni5-{0}-flp0yx9dlv-flp0yx9dlv.gz
 C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\staticwebassets.development.json
@@ -83,3 +81,8 @@ C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\re
 C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\RososPortfolio.pdb
 C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\RososPortfolio.genruntimeconfig.cache
 C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\ref\RososPortfolio.dll
+C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\RososPortfolio.sourcelink.json
+C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\scopedcss\Components\Pages\Profile.razor.rz.scp.css
+C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\scopedcss\Components\Pages\Projects.razor.rz.scp.css
+C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\compressed\qo047r4cu3-{0}-cezw8t6jvl-cezw8t6jvl.gz
+C:\Users\Josh - CKI\Documents\RososPortfolio\RososPortfolio\obj\Debug\net10.0\compressed\uuekdytni5-{0}-cezw8t6jvl-cezw8t6jvl.gz
