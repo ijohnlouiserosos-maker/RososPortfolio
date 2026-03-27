@@ -34,10 +34,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOb3RGb3VuZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Josh - CKI/Documents/RososPortfolio/RososPortfolio/Components/Pages/Skills.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTa2lsbHMucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Josh - CKI/Documents/RososPortfolio/RososPortfolio/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -65,3 +61,7 @@ build_metadata.AdditionalFiles.CssScope = b-5r3agrmv75
 [C:/Users/Josh - CKI/Documents/RososPortfolio/RososPortfolio/Components/Pages/Projects.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9qZWN0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-owe2htx64f
+
+[C:/Users/Josh - CKI/Documents/RososPortfolio/RososPortfolio/Components/Pages/Skills.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTa2lsbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-wdk0nlstjh
